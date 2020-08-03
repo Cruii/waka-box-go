@@ -15,9 +15,9 @@ jobs:
     name: Update-gist
     runs-on: ubuntu-latest
     env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 9bc7025496e478f439b9cd43eba989a4
+      WAKATIME_API_KEY: b855d612-b422-4efb-911e-70f83c935d3c
+      GH_TOKEN: ff6128532d0243ca0eff728df5eae3decf68d72d
+      GIST_ID: d235c8ecfc2fb0fbd4b2513f3cf2647f
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
